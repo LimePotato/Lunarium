@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "lunarium:blocks/uncreated_reality_fabric",
+    "up": "lunarium:blocks/uncreated_reality_fabric",
+    "north": "lunarium:blocks/uncreated_reality_fabric",
+    "east": "lunarium:blocks/uncreated_reality_fabric",
+    "south": "lunarium:blocks/uncreated_reality_fabric",
+    "west": "lunarium:blocks/uncreated_reality_fabric",
+    "particle": "lunarium:blocks/uncreated_reality_fabric"
+  }
+}

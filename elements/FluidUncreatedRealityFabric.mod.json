@@ -1,0 +1,23 @@
+{
+  "_fv": 13,
+  "_type": "fluid",
+  "definition": {
+    "name": "FluidUncreatedRealityFabric",
+    "textureStill": "limboportal",
+    "textureFlowing": "limboportal2",
+    "luminosity": 9,
+    "density": 1000,
+    "viscosity": 1000,
+    "isGas": true,
+    "type": "WATER",
+    "generateBucket": false,
+    "creativeTab": {
+      "value": "CUSTOM:LunariumTab"
+    },
+    "frequencyOnChunks": 5,
+    "spawnWorldTypes": [
+      "CUSTOM:Limbo"
+    ],
+    "restrictionBiomes": []
+  }
+}

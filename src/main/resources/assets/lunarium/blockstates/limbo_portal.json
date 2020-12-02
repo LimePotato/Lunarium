@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "lunarium:limbo_portal_ew"
+    },
+    "axis=x": {
+      "model": "lunarium:limbo_portal_ns"
+    },
+    "inventory": {
+      "model": "lunarium:limbo_portal_ns"
+    }
+  }
+}

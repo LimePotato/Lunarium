@@ -1,0 +1,47 @@
+{
+  "_fv": 13,
+  "_type": "dimension",
+  "definition": {
+    "portalFrame": {
+      "value": "CUSTOM:UncreatedRealityFabric"
+    },
+    "portalParticles": {
+      "value": "ENCHANTMENT_TABLE"
+    },
+    "portalLuminance": 0.02,
+    "portalSound": {
+      "value": "block.portal.ambient"
+    },
+    "igniterName": "Limbo Portal Igniter",
+    "igniterTab": {
+      "value": "CUSTOM:LunariumTab"
+    },
+    "texture": "bottle_of_nothing",
+    "portalTexture": "uncreated_reality_fabric",
+    "enablePortal": true,
+    "biomesInDimension": [
+      {
+        "value": "CUSTOM:UnravelingAppendage"
+      }
+    ],
+    "worldGenType": "Nether like gen",
+    "mainFillerBlock": {
+      "value": "CUSTOM:UncreatedRealityFabric"
+    },
+    "fluidBlock": {
+      "value": "CUSTOM:FluidUncreatedRealityFabric"
+    },
+    "airColor": {
+      "value": -13421773,
+      "falpha": 0.0
+    },
+    "canRespawnHere": false,
+    "hasFog": true,
+    "hasWeather": false,
+    "isDark": true,
+    "doesWaterVaporize": true,
+    "sleepResult": "DENY",
+    "hasSkyLight": false,
+    "imitateOverworldBehaviour": false
+  }
+}

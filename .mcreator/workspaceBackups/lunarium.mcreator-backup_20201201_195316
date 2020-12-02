@@ -1,7 +1,7 @@
 {
   "id_map": {
-    "ENTITY": 2,
-    "DIMENSION": 1
+    "DIMENSION": 1,
+    "ENTITY": 2
   },
   "mod_elements": [
     {
@@ -53,15 +53,6 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "unraveling_appendage"
-    },
-    {
-      "name": "LunariumTab",
-      "type": "tab",
-      "sortid": 7,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "lunarium_tab"
     }
   ],
   "variable_elements": [],
@@ -69,7 +60,6 @@
   "language_map": {
     "en_us": {
       "tile.uncreated_reality_fabric.name": "Uncreated Reality Fabric",
-      "itemGroup.tablunarium_tab": "Lunarium",
       "item.limbo.name": "Limbo Portal Igniter",
       "entity.luna_nulla.name": "Luna Nulla",
       "fluid.fluid_uncreated_reality_fabric": "FluidUncreatedRealityFabric"

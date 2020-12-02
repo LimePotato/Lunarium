@@ -1,0 +1,98 @@
+{
+  "_fv": 13,
+  "_type": "biome",
+  "definition": {
+    "name": "Unraveling Appendage",
+    "groundBlock": {
+      "value": "CUSTOM:UncreatedRealityFabric"
+    },
+    "undergroundBlock": {
+      "value": "CUSTOM:UncreatedRealityFabric"
+    },
+    "treeType": 1,
+    "vanillaTreeType": "Default",
+    "minHeight": 1,
+    "spawnVines": true,
+    "treeVines": {
+      "value": "CUSTOM:FluidUncreatedRealityFabric"
+    },
+    "treeStem": {
+      "value": "CUSTOM:UncreatedRealityFabric"
+    },
+    "treeBranch": {
+      "value": "Blocks.END_STONE"
+    },
+    "treeFruits": {
+      "value": "Blocks.CHORUS_FLOWER"
+    },
+    "airColor": {
+      "value": -10066330,
+      "falpha": 0.0
+    },
+    "grassColor": {
+      "value": -10066330,
+      "falpha": 0.0
+    },
+    "foliageColor": {
+      "value": -3355444,
+      "falpha": 0.0
+    },
+    "waterColor": {
+      "value": -13421773,
+      "falpha": 0.0
+    },
+    "waterFogColor": {
+      "value": -16777216,
+      "falpha": 0.0
+    },
+    "treesPerChunk": 1,
+    "grassPerChunk": 10,
+    "seagrassPerChunk": 0,
+    "flowersPerChunk": 0,
+    "mushroomsPerChunk": 0,
+    "bigMushroomsChunk": 0,
+    "sandPathcesPerChunk": 0,
+    "gravelPatchesPerChunk": 0,
+    "reedsPerChunk": 0,
+    "cactiPerChunk": 0,
+    "rainingPossibility": 0.5,
+    "temperature": 0.5,
+    "baseHeight": 0.1,
+    "heightVariation": 0.2,
+    "spawnBiome": false,
+    "biomeWeight": 10,
+    "biomeType": "ICY",
+    "biomeCategory": "NONE",
+    "parent": {
+      "value": "No parent"
+    },
+    "spawnStronghold": true,
+    "spawnMineshaft": true,
+    "spawnPillagerOutpost": false,
+    "villageType": "none",
+    "spawnWoodlandMansion": false,
+    "spawnJungleTemple": false,
+    "spawnDesertPyramid": false,
+    "spawnIgloo": false,
+    "spawnOceanMonument": false,
+    "spawnShipwreck": false,
+    "oceanRuinType": "NONE",
+    "biomeDictionaryTypes": [
+      "RARE"
+    ],
+    "defaultFeatures": [
+      "Caves"
+    ],
+    "spawnEntries": [
+      {
+        "entity": {
+          "value": "CUSTOM:LunaNulla"
+        },
+        "minGroup": 1,
+        "maxGroup": 1,
+        "weight": 1,
+        "spawnType": "creature"
+      }
+    ]
+  }
+}

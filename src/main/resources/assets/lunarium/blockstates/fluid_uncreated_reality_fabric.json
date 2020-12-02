@@ -1,0 +1,15 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "forge:fluid"
+  },
+  "variants": {
+    "fluid_uncreated_reality_fabric": [
+      {
+        "custom": {
+          "fluid": "fluid_uncreated_reality_fabric"
+        }
+      }
+    ]
+  }
+}
